@@ -1,9 +1,9 @@
 resource "azurerm_resource_group" "resource_gp" {
-    name    = "skylinedemo5"
+    name    = "TFdemo"
     location  = "eastus"
 
     tags {
-        owner = "Nick Coyler"
+        owner = "Victor A. Sanchez"
 
     }
 }
