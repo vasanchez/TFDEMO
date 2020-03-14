@@ -7,4 +7,6 @@ resource "azurerm_resource_group" "resource_gp" {
 
     }
 }
-# testing
+# gitignore was not working, had to clear cache, ran 2 commands below, include the period
+# git rm -r --force --cached .
+# git add .
