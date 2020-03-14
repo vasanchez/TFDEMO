@@ -99,7 +99,6 @@ Thumbs.db
 *.der
 *.key
 *.pem
-*.tfvars
 
 # -------------------------
 # BEGIN Whitelisted Files
